@@ -91,7 +91,7 @@ Database: `Sqlite3`
    **For Linux Users**
    ```bash
    virtualenv env
-   source env/Scripts/activate
+   source env/bin/activate
    ```
 
    If you are giving a different name than `env`, mention it in `.gitignore` first
