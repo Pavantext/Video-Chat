@@ -120,6 +120,8 @@ Database: `Sqlite3`
    python manage.py runserver
    ```
 <br>
+
+
 ### Snapshots
 
 1. Register Page
