@@ -118,8 +118,8 @@ Database: `Sqlite3`
 5. Run server
    ```bash
    python manage.py runserver
-
-     <br>
+   ```
+<br>
 ### Snapshots
 
 1. Register Page
