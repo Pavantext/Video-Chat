@@ -52,7 +52,7 @@ Backend Framework: `Django`
 <br/><br/>
 Front-end : `Bootstrap, HTML, CSS`
 <br/><br/>
-Third-Party : `ZEGOCLOUD UIkit`
+Third-Party : `ZEGOCLOUD UIkit/SDK`
 <br/><br/>
 Database: `Sqlite3`
 <br/><br/>
